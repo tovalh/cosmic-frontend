@@ -14,6 +14,21 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #000014;
+  color: white;
+}
+
+/* Global text styling for dark theme */
+body, html {
+  background-color: #000014;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+
+p, div, span {
+  color: white;
 }
 
 /* Scrollbar styles */
